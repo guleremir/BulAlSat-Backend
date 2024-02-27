@@ -22,4 +22,9 @@ public class GetAllCarsResponse {
 	private String vehicleStatus;
 	private int km;
 	private String color;
+	//
+
+	///
+
+	////
 }
