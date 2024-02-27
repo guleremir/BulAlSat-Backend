@@ -17,6 +17,11 @@ public class Car {
 
 	// Entity classı dönüş tipleri güncellenecek !!
 
+	//
+	//
+
+	///
+
 	@Id
 	@GeneratedValue(strategy = GenerationType.IDENTITY)
 	@Column(name = "advertNo")
