@@ -19,7 +19,7 @@ public class Car {
 
 	@Id
 	@GeneratedValue(strategy = GenerationType.IDENTITY)
-	@Column(name = "No")
+	@Column(name = "advertNo")
 	private int advertNo;
 
 	@Column(name = "price")
