@@ -16,7 +16,6 @@ import lombok.Data;
 public class Car {
 
 	// Entity classı dönüş tipleri güncellenecek !!
-	// deneme
 
 	@Id
 	@GeneratedValue(strategy = GenerationType.IDENTITY)
